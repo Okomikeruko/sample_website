@@ -8,3 +8,40 @@
   text-decoration: none;
   color: rgb(0,0,238);
 }
+.image-link {
+  text-decoration: none;
+}
+.p-10{
+  padding: 10px;
+}
+header.center{
+  text-align: center;
+  margin: 0 0 80px;
+}
+img.center{
+  display: block;
+  margin: 0 auto;
+}
+#moby-dick-section{
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px; 
+  background-color: #fafafa;
+}
+#moby-dick-section img{
+  float: left; 
+  display: block; 
+  margin: 0 auto;
+}
+
+blockquote{
+  font-style: italic; 
+  font-size: 20px;
+}
+
+span.highlight{
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #ff0000;
+}
